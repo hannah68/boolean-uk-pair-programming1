@@ -1,5 +1,11 @@
 class Scrabble {
-  // Write your implementation here
+  score(parameter){
+    if(!parameter){
+      return 0
+    }
+    
+    
+  }
 
 }
 
